@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card1,.card2,.card3,.card4{
+    margin-top: 48px;
+    width: 262px;
+    height: 470px;
+    gap: 12px;
+   display: inline-block;
+   background-color: white;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: weight;
+}
+p{
+    padding-top: 12px;
+}
+.img{
+    margin-top: 48px;
+    margin-left: 160px;
+}
+.card1{
+margin-left: 160px;
+}
+.card2,.card3,.card4{
+    margin-left: 24px;
+}
